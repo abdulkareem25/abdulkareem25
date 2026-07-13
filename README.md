@@ -28,7 +28,7 @@ Currently completing Sheryians Coding School Cohort 2. Open to backend and full-
 
 An AI assistant for storing, organizing, and retrieving personal notes across categories like coding, deen, admin, and more through a conversational interface. Currently being rebuilt as 2.0 with a custom dark UI theme and a refined AI layer.
 
-`React 19` `Redux` `Node.js` `Express.js` `MongoDB` `Socket.IO` `LangChain` `Gemini API`
+`React` `Redux` `Node.js` `Express.js` `MongoDB` `Socket.IO` `LangChain` `Gemini API`
 
 [Live demo](https://mindvault-6exy.onrender.com) · [Repository](https://github.com/abdulkareem25/mindvault)
 
