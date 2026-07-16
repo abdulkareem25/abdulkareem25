@@ -26,7 +26,7 @@ Currently completing Sheryians Coding School Cohort 2. Open to backend and full-
 
 ### MindVault - AI-Powered Personal Knowledge Vault
 
-An AI assistant for storing, organizing, and retrieving personal notes across categories like coding, deen, admin, and more through a conversational interface. Currently being rebuilt as 2.0 with a custom dark UI theme and a refined AI layer.
+An AI assistant for storing, organizing, and retrieving personal notes across categories like coding, deen, admin, and more through a conversational interface. Currently being rebuilt as 2.0 with a custom dark User Interface theme and a refined AI layer.
 
 `React` `Redux` `Node.js` `Express.js` `MongoDB` `Socket.IO` `LangChain` `Gemini API`
 
